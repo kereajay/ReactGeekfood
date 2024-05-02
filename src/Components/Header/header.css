@@ -1,0 +1,48 @@
+/* *{
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+} */
+#navbar1 nav{
+    display: flex;
+    flex-direction:row ;
+    justify-content: space-between;
+    background-color: white;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+}
+#logo{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+#logo h2{
+ margin-top: 3%;
+ margin-left: 10px;
+}
+#navitems ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* margin-top: 10%; */
+}
+#navitems ul li{ 
+    margin-right: 35px;
+    font-size: large;
+    margin-top: 10px;
+
+}
+#getstarted{
+    margin-right: 10%;
+}
+#getstarted button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    font-size:16px;
+}

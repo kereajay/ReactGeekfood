@@ -1,0 +1,40 @@
+#footer{
+    margin: auto;
+    text-align: center;
+    width: 35%;
+}
+#footer #main-icon{
+    width:150px;
+    color:rgb(104, 210, 175);
+    /* height: 40px; */
+}
+#footer p{
+    line-height: 30px;
+    width:80%;
+    margin: auto;
+}
+#againnav ul{
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+#againnav ul li{
+  margin-right: 40px;
+}
+#icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 55%;
+    margin: auto;
+    margin-top: 50px;
+}
+#icons .basketball{
+    width:20px;
+}
+#footermain{
+    margin-top: 10%;
+    background-color: aliceblue;
+    padding: 30px;
+}

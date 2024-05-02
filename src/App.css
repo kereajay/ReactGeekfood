@@ -1,0 +1,8 @@
+#cardholder{
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    flex-wrap: wrap;
+    margin: auto;
+    margin-top: 0%;
+}   

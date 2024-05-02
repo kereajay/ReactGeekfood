@@ -1,0 +1,27 @@
+#houseinner{
+    display: flex;
+    flex-direction: row;
+}
+#houseimg{
+    margin-top: 8%;
+    margin-left: 2%;
+    /* position: absolute; */
+}
+#housepara{
+
+    margin-top: 20%;
+    margin-left: 8%;
+    width: 35%;
+}
+#housepara button{
+    padding: 10px;
+    background-color: rgb(50, 50, 243);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+} 
+/* #housepara h1{
+
+} */
